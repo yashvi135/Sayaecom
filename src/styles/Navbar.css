@@ -1,0 +1,23 @@
+nav{
+    background-color: #660033;
+}
+.logo img{
+    width: 66px;
+}
+.leftnav {
+    margin-top: 18px;
+}
+.rightnav{
+    margin-top: 18px;
+}
+.leftnav a{
+    padding: 0px 17px;
+    color: #FFCC00;
+    font-size: 20px;
+   
+}
+.rightnav a{
+    padding: 0px 17px;
+    color: #FFCC00;
+    font-size: 20px;
+}
